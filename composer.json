@@ -1,0 +1,23 @@
+{
+    "name": "contao/conflicts",
+    "type": "metapackage",
+    "description": "Contao 4 conflicting packages",
+    "license": "LGPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Leo Feyer",
+            "homepage": "https://github.com/leofeyer"
+        }
+    ],
+    "conflict": {
+        "doctrine/dbal": "2.9.* <2.9.3",
+        "doctrine/doctrine-migrations-bundle": "<1.1",
+        "doctrine/orm": "<2.4",
+        "knplabs/knp-time-bundle": "1.9.0",
+        "lexik/maintenance-bundle": "2.1.4",
+        "symfony/finder": "3.4.7 || 4.0.7",
+        "symfony/security": "3.3.17 || 3.4.7 || 3.4.8 || 3.4.11",
+        "symfony/swiftmailer-bundle": "2.6.* <2.6.2",
+        "symfony/twig-bundle": "4.1.0"
+    }
+}
