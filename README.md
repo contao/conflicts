@@ -14,7 +14,7 @@ Contao is licensed under the terms of the LGPLv3.
 ## Installation
 
 ```
-composer require contao/conflicts @dev
+composer require contao/conflicts:@dev
 ```
 
 We will make sure that no matter how many branches we will add here, you will
