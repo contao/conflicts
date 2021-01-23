@@ -17,6 +17,7 @@
         "knplabs/knp-time-bundle": "1.9.0",
         "lexik/maintenance-bundle": "2.1.4",
         "monolog/monolog": ">=2",
+        "scheb/2fa-bundle": ">=5.4",
         "symfony/finder": "3.4.7 || 4.0.7",
         "symfony/framework-bundle": "4.2.7",
         "symfony/security": "3.3.17 || 3.4.7 || 3.4.8 || 3.4.11",
