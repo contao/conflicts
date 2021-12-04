@@ -9,6 +9,9 @@
             "homepage": "https://github.com/leofeyer"
         }
     ],
+    "require": {
+        "roave/security-advisories": "dev-latest"
+    },
     "conflict": {
         "doctrine/dbal": "2.9.* <2.9.3",
         "doctrine/doctrine-migrations-bundle": "<1.1",
