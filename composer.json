@@ -19,7 +19,7 @@
         "lexik/maintenance-bundle": "2.1.4",
         "symfony/finder": "3.4.7 || 4.0.7",
         "symfony/framework-bundle": "4.2.7 || 5.2.6",
-        "symfony/http-foundation": "4.4.27",
+        "symfony/http-foundation": "4.4.27 || 4.4.46 || 5.4.13 || 6.0.13 || 6.1.5",
         "symfony/http-kernel": "5.4.1 || 5.4.12",
         "symfony/security": "3.3.17 || 3.4.7 || 3.4.8 || 3.4.11",
         "symfony/swiftmailer-bundle": "2.6.* <2.6.2",
