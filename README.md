@@ -1,4 +1,4 @@
-# Contao 4 conflicting packages
+# Contao conflicting packages
 
 This is a meta package that adds conflicts for packages that are not compatible
 with Contao.
